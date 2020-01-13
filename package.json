@@ -1,0 +1,23 @@
+{
+  "name": "web-scrapping",
+  "version": "1.0.0",
+  "description": "Using pupeteer library to web scap data from any website.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gadgetboy27/web-scrapping.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gadgetboy27/web-scrapping/issues"
+  },
+  "homepage": "https://github.com/gadgetboy27/web-scrapping#readme",
+  "dependencies": {
+    "puppeteer": "^2.0.0"
+  }
+}
